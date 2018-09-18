@@ -8,7 +8,7 @@ Code in Program.cs is specific to the demonstration scenarios.
 ### Quickstart
 (steps to get up and running quickly)
 
-1. Open in Visual Studio and do package restore for Nuget
+1. Open in Visual Studio and verify references are correct
 2. Open app.config and enter your Cosmos DB connection string, database and collection name.
 
 
