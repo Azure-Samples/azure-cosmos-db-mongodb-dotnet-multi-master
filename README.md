@@ -1,3 +1,9 @@
+---
+services: cosmos-db
+platforms: dotnet
+api: MongoDB
+---
+
 # MongoDB Multi-Master Sample for .NET
 
 This sample demonstrates some multi-master scenarios over the Cosmos DB MongoDB API.
