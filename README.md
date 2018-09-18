@@ -15,8 +15,7 @@ Code in Program.cs is specific to the demonstration scenarios.
 
 ## Resources
 
-(Any additional resources or related projects)
+(Additional resources or related projects)
 
-- Link to supporting information
-- Link to similar sample
-- ...
+- Cosmos DB Multi-Master on Docs: https://aka.ms/cosmosdb-multi-master
+
