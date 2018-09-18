@@ -1,52 +1,17 @@
-# Project Name
+# MongoDB Multi-Master Sample for .NET
 
-(short, 1-3 sentenced, description of the project)
+This sample demonstrates some multi-master scenarios over the Cosmos DB MongoDB API.
+Utility code that may be useful in other applications is kept in MongoMultiMasterHelpers.cs.
+Code in Program.cs is specific to the demonstration scenarios.
 
-## Features
-
-This project framework provides the following features:
-
-* Feature 1
-* Feature 2
-* ...
-
-## Getting Started
-
-### Prerequisites
-
-(ideally very short, if any)
-
-- OS
-- Library version
-- ...
-
-### Installation
-
-(ideally very short)
-
-- npm install [package name]
-- mvn install
-- ...
 
 ### Quickstart
-(Add steps to get up and running quickly)
+(steps to get up and running quickly)
 
-1. git clone [repository clone url]
-2. cd [respository name]
-3. ...
+1. Open in Visual Studio and do package restore for Nuget
+2. Open app.config and enter your Cosmos DB connection string, database and collection name.
 
 
-## Demo
-
-A demo app is included to show how to use the project.
-
-To run the demo, follow these steps:
-
-(Add steps to start up the demo)
-
-1.
-2.
-3.
 
 ## Resources
 
