@@ -1,7 +1,7 @@
 //------------------------------------------------------------
 // Copyright (c) Microsoft Corporation.  All rights reserved.
 //------------------------------------------------------------
-namespace Microsoft.Azure.Cosmos.Samples.Mongo
+namespace Microsoft.Azure.Cosmos.Samples
 {
     using System;
     using System.Collections.Generic;
@@ -15,9 +15,7 @@ namespace Microsoft.Azure.Cosmos.Samples.Mongo
     using MongoDB.Driver.Core.Servers;
 
     /// <summary>
-    /// This sample demonstrates some multi-master scenarios over the Cosmos DB MongoDB API.
-    /// Utility code that may be useful in other applications is kept in MongoMultiMasterHelpers.cs.
-    /// Code in Program.cs is specific to the demonstration scenarios.
+    /// This sample demonstrates some multi-master scenarios using Azure Cosmos DB for MongoDB API account.
     /// </summary>
     internal static class Program
     {

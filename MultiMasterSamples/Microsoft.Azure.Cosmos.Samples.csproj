@@ -4,8 +4,8 @@
     <ProjectGuid>{6799CBF8-4B36-4F3E-B177-0C0B32F5CB60}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Microsoft.Azure.Cosmos.Samples.Mongo</RootNamespace>
-    <AssemblyName>Microsoft.Azure.Cosmos.Samples.Mongo</AssemblyName>
+    <RootNamespace>Microsoft.Azure.Cosmos.Samples</RootNamespace>
+    <AssemblyName>Microsoft.Azure.Cosmos.Samples</AssemblyName>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
   </PropertyGroup>
