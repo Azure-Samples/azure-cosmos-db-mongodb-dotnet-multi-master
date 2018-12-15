@@ -1,14 +1,14 @@
 //------------------------------------------------------------
 // Copyright (c) Microsoft Corporation.  All rights reserved.
 //------------------------------------------------------------
-namespace Microsoft.Azure.Cosmos.Samples.Mongo
+namespace Microsoft.Azure.Cosmos.Samples
 {
     using System;
     using System.Linq;
     using MongoDB.Driver;
 
     /// <summary>
-    /// Helpers to leverage Cosmos DB multi-master capabilities using the Cosmos DB MongoDB API
+    /// Helpers to leverage Cosmos DB multi-master capabilities using the Azure Cosmos DB for MongoDB API
     /// </summary>
     public static class Helpers
     {
