@@ -1,7 +1,11 @@
 ---
-services: cosmos-db
-platforms: dotnet
-author: jasontho
+page_type: sample
+languages:
+- csharp
+products:
+- azure
+description: "This sample demonstrates some multi-master scenarios using Azure Cosmos DB for MongoDB API."
+urlFragment: azure-cosmos-db-mongodb-dotnet-multi-master
 ---
 
 # Multi-Master Sample using .NET driver for Azure Cosmos DB for MongoDB API
